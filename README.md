@@ -17,6 +17,11 @@ To run the project follow the bellow steps:
    ```
    yarn serve
    ```
+   or
+   
+   ```
+   npm serve
+   ```
 3. The above command runs a server in the local and runs the code in the browser.
 
 Note:
